@@ -2,8 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Mar  4 17:08:57 2020
-
+This script utilizes USGS stramflow data from Wabash River measurement site in 
+Lafayette, Indiana to measure streamflow rates from March 17, 2015 to March 24, 2016 
 @author: aetienne
+@github: aetienne93
 """
 import pandas as pd
 import numpy as np
